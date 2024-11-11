@@ -2171,18 +2171,6 @@
     },
     "done": true
   },
-  "cataclysm:find_ruined_citadel": {
-    "criteria": {
-      "citadel": "2024-11-12 01:43:43 +1100"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/warped_planks": {
-    "criteria": {
-      "has_planks": "2024-11-12 02:38:52 +1100"
-    },
-    "done": true
-  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2024-11-12 01:42:21 +1100"
@@ -2192,6 +2180,18 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2024-11-12 01:42:25 +1100"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2024-11-12 01:43:43 +1100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/warped_planks": {
+    "criteria": {
+      "has_planks": "2024-11-12 02:38:52 +1100"
     },
     "done": true
   },
