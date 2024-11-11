@@ -1,0 +1,40 @@
+{
+	id: "c3640d9f-b688-493f-b9b7-1be924e89714"
+	type: "party"
+	owner: "5b128395-cbf5-41ae-b6aa-44c4407585b8"
+	ranks: {
+		fdff3b24-9f59-4b1b-b6a7-35b146fd0452: "member"
+		745c5168-6d6b-4c5a-a206-18afc325829c: "member"
+		75130cc5-40af-44c9-8b8b-898aeaaa35fc: "member"
+		5b128395-cbf5-41ae-b6aa-44c4407585b8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Bweh"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8DF1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730870305384L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Chrono_Eventless\"}]}" }
+		{ from: "5b128395-cbf5-41ae-b6aa-44c4407585b8", date: 1730870305444L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Ashtia\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730870313638L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Ashtia\"}]}" }
+		{ from: "5b128395-cbf5-41ae-b6aa-44c4407585b8", date: 1730887151063L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ChloricAcid\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730887165216L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ChloricAcid\"}]}" }
+		{ from: "5b128395-cbf5-41ae-b6aa-44c4407585b8", date: 1730890179824L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"PlatinumGod1\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730890182394L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"PlatinumGod1\"}]}" }
+	]
+	extra: { }
+}
