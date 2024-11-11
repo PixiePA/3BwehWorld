@@ -1,2173 +1,2197 @@
 {
   "mcwfences:recipes/end": {
     "criteria": {
-      "has_end_brick": "2024-10-23 10:26:15 -0400"
+      "has_end_brick": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/deepslate": {
     "criteria": {
-      "has_deepslate": "2024-10-23 10:26:15 -0400"
+      "has_deepslate": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "vs_eureka:recipes/balloon_color": {
     "criteria": {
-      "has_red_balloon": "2024-10-23 10:26:15 -0400",
-      "has_black_balloon": "2024-10-23 10:26:15 -0400",
-      "has_lime_balloon": "2024-10-23 10:26:15 -0400",
-      "has_cyan_balloon": "2024-10-23 10:26:15 -0400",
-      "has_light_blue_balloon": "2024-10-23 10:26:15 -0400",
-      "has_gray_balloon": "2024-10-23 10:26:15 -0400",
-      "has_pink_balloon": "2024-10-23 10:26:15 -0400",
-      "has_light_gray_balloon": "2024-10-23 10:26:15 -0400",
-      "has_white_balloon": "2024-10-23 10:26:15 -0400",
-      "has_blue_balloon": "2024-10-23 10:26:15 -0400",
-      "has_yellow_balloon": "2024-10-23 10:26:15 -0400",
-      "has_purple_balloon": "2024-10-23 10:26:15 -0400",
-      "has_orange_balloon": "2024-10-23 10:26:15 -0400",
-      "has_brown_balloon": "2024-10-23 10:26:16 -0400",
-      "has_green_balloon": "2024-10-23 10:26:15 -0400",
-      "has_magenta_balloon": "2024-10-23 10:26:15 -0400"
+      "has_red_balloon": "2024-10-24 01:26:15 +1100",
+      "has_black_balloon": "2024-10-24 01:26:15 +1100",
+      "has_lime_balloon": "2024-10-24 01:26:15 +1100",
+      "has_cyan_balloon": "2024-10-24 01:26:15 +1100",
+      "has_light_blue_balloon": "2024-10-24 01:26:15 +1100",
+      "has_gray_balloon": "2024-10-24 01:26:15 +1100",
+      "has_pink_balloon": "2024-10-24 01:26:15 +1100",
+      "has_light_gray_balloon": "2024-10-24 01:26:15 +1100",
+      "has_white_balloon": "2024-10-24 01:26:15 +1100",
+      "has_blue_balloon": "2024-10-24 01:26:15 +1100",
+      "has_yellow_balloon": "2024-10-24 01:26:15 +1100",
+      "has_purple_balloon": "2024-10-24 01:26:15 +1100",
+      "has_orange_balloon": "2024-10-24 01:26:15 +1100",
+      "has_brown_balloon": "2024-10-24 01:26:16 +1100",
+      "has_green_balloon": "2024-10-24 01:26:15 +1100",
+      "has_magenta_balloon": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
-      "has_dark_oak": "2024-10-23 10:26:15 -0400"
+      "has_dark_oak": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/spruce": {
     "criteria": {
-      "has_spruce": "2024-10-23 10:26:15 -0400"
+      "has_spruce": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "create_connected:root": {
     "criteria": {
-      "0": "2024-10-23 10:26:15 -0400"
+      "0": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/crimson": {
     "criteria": {
-      "has_crimson": "2024-10-23 10:26:15 -0400"
+      "has_crimson": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/prismarine": {
     "criteria": {
-      "has_qq": "2024-10-23 10:26:15 -0400"
+      "has_qq": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2024-10-23 10:26:15 -0400"
+      "seeds": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/quartz": {
     "criteria": {
-      "has_qq": "2024-10-23 10:26:15 -0400"
+      "has_qq": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "create:root": {
     "criteria": {
-      "0": "2024-10-23 10:26:15 -0400"
+      "0": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/sandstone": {
     "criteria": {
-      "has_sand": "2024-10-23 10:26:15 -0400"
+      "has_sand": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/acacia": {
     "criteria": {
-      "has_acacia": "2024-10-23 10:26:15 -0400"
+      "has_acacia": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/jungle": {
     "criteria": {
-      "has_jungle": "2024-10-23 10:26:15 -0400"
+      "has_jungle": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/oak": {
     "criteria": {
-      "has_oak": "2024-10-23 10:26:15 -0400"
+      "has_oak": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/mud_brick": {
     "criteria": {
-      "has_qq": "2024-10-23 10:26:15 -0400"
+      "has_qq": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/mangrove": {
     "criteria": {
-      "has_mangrove": "2024-10-23 10:26:15 -0400"
+      "has_mangrove": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/warped": {
     "criteria": {
-      "has_warped": "2024-10-23 10:26:15 -0400"
+      "has_warped": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "vs_eureka:recipes/ship_helm": {
     "criteria": {
-      "has_gold": "2024-10-23 10:26:15 -0400"
+      "has_gold": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/blackstone": {
     "criteria": {
-      "has_blackstone": "2024-10-23 10:26:15 -0400"
+      "has_blackstone": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/hedge": {
     "criteria": {
-      "has_birch": "2024-10-23 10:26:15 -0400"
+      "has_birch": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/nether": {
     "criteria": {
-      "has_nether_brick": "2024-10-23 10:26:15 -0400"
+      "has_nether_brick": "2024-10-24 01:26:15 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2024-10-23 10:26:16 -0400"
+      "tick": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/stone": {
     "criteria": {
-      "has_stone": "2024-10-23 10:26:16 -0400"
+      "has_stone": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_purple": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_pink": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_magenta": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/bamboo": {
     "criteria": {
-      "has_bamboo": "2024-10-23 10:26:16 -0400"
+      "has_bamboo": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_red": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_white": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_gray": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:rope_and_nail": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
-      "has_recipe": "2024-10-23 10:26:16 -0400"
+      "has_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_black": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "ars_nouveau:root": {
     "criteria": {
-      "ars_nouveau:worn_notebook": "2024-10-23 10:26:16 -0400"
+      "ars_nouveau:worn_notebook": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "yungscavebiomes:root": {
     "criteria": {
-      "always": "2024-10-23 10:26:16 -0400"
+      "always": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "northstar:root": {
     "criteria": {
-      "0": "2024-10-23 10:26:16 -0400"
+      "0": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "naturescompass:natures_compass_log": {
     "criteria": {
-      "has_recipe": "2024-10-23 10:26:16 -0400"
+      "has_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_gray": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_cyan": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_purple": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_green": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_light_blue": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_green": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "repurposed_structures:root": {
     "criteria": {
-      "always": "2024-10-23 10:26:16 -0400"
+      "always": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "naturescompass:natures_compass": {
     "criteria": {
-      "has_recipe": "2024-10-23 10:26:16 -0400"
+      "has_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_black": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_lime": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
-      "has_recipe": "2024-10-23 10:26:16 -0400"
+      "has_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_red": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_orange": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "mekanism:root": {
     "criteria": {
-      "automatic": "2024-10-23 10:26:16 -0400"
+      "automatic": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_blue": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_white": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2024-10-23 10:26:16 -0400"
+      "custom_test_name": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_light_gray": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_brown": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "betterdungeons:root": {
     "criteria": {
-      "always": "2024-10-23 10:26:16 -0400"
+      "always": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "lootr:root": {
     "criteria": {
-      "always_true": "2024-10-23 10:26:16 -0400"
+      "always_true": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_pink": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_brown": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_lime": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "apotheosis:give_book": {
     "criteria": {
-      "tick": "2024-10-23 10:26:16 -0400"
+      "tick": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_yellow": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
-      "has_recipe": "2024-10-23 10:26:16 -0400"
+      "has_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "occultism:occultism/root": {
     "criteria": {
-      "occultism_present": "2024-10-23 10:26:16 -0400"
+      "occultism_present": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_blue": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "bornin_chaos_0": "2024-10-23 10:26:16 -0400"
+      "bornin_chaos_0": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "biomancy:biomancy/craft_primal_core": {
     "criteria": {
-      "has_unlocked_recipe": "2024-10-23 10:26:16 -0400"
+      "has_unlocked_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "betterdeserttemples:root": {
     "criteria": {
-      "always": "2024-10-23 10:26:16 -0400"
+      "always": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2024-10-23 10:26:16 -0400"
+      "custom_test_name": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:sleeping_bag_yellow": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
-      "tick": "2024-10-23 10:26:16 -0400"
+      "tick": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "mcwfences:recipes/birch": {
     "criteria": {
-      "has_birch": "2024-10-23 10:26:16 -0400"
+      "has_birch": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "explorerscompass:explorers_compass": {
     "criteria": {
-      "has_recipe": "2024-10-23 10:26:16 -0400"
+      "has_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "comforts:hammock_orange": {
     "criteria": {
-      "has_the_recipe": "2024-10-23 10:26:16 -0400"
+      "has_the_recipe": "2024-10-24 01:26:16 +1100"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:sunflower_plains": "2024-10-29 02:50:04 -0400",
-      "minecraft:beach": "2024-10-23 10:27:02 -0400",
-      "minecraft:river": "2024-10-23 10:27:08 -0400",
-      "minecraft:forest": "2024-10-23 10:26:21 -0400",
-      "minecraft:lush_caves": "2024-11-10 05:46:06 -0500",
-      "minecraft:ocean": "2024-10-29 02:49:31 -0400",
-      "minecraft:plains": "2024-10-23 11:34:23 -0400"
+      "minecraft:sunflower_plains": "2024-10-29 17:50:04 +1100",
+      "minecraft:beach": "2024-10-24 01:27:02 +1100",
+      "minecraft:river": "2024-10-24 01:27:08 +1100",
+      "minecraft:forest": "2024-10-24 01:26:21 +1100",
+      "minecraft:lush_caves": "2024-11-10 21:46:06 +1100",
+      "minecraft:ocean": "2024-10-29 17:49:31 +1100",
+      "minecraft:plains": "2024-10-24 02:34:23 +1100"
     },
     "done": false
   },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "rice": "2024-10-23 10:28:18 -0400"
+      "rice": "2024-10-24 01:28:18 +1100"
     },
     "done": true
   },
   "lootr:1chest": {
     "criteria": {
-      "opened_chest": "2024-10-23 10:30:19 -0400"
+      "opened_chest": "2024-10-24 01:30:19 +1100"
     },
     "done": true
   },
   "lootr:social": {
     "criteria": {
-      "opened_barrel": "2024-10-23 10:33:09 -0400",
-      "opened_chest": "2024-10-23 10:30:19 -0400",
-      "opened_cart": "2024-10-24 09:26:01 -0400"
+      "opened_barrel": "2024-10-24 01:33:09 +1100",
+      "opened_chest": "2024-10-24 01:30:19 +1100",
+      "opened_cart": "2024-10-25 00:26:01 +1100"
     },
     "done": false
   },
   "mcwroofs:recipes/thatch": {
     "criteria": {
-      "has_planks": "2024-10-23 10:30:21 -0400"
+      "has_planks": "2024-10-24 01:30:21 +1100"
     },
     "done": true
   },
   "immersiveengineering:tools/tools_root": {
     "criteria": {
-      "has_item": "2024-10-23 10:30:51 -0400"
+      "has_item": "2024-10-24 01:30:51 +1100"
     },
     "done": true
   },
   "immersiveengineering:main/craft_workbench": {
     "criteria": {
-      "has_item": "2024-10-23 10:30:51 -0400"
+      "has_item": "2024-10-24 01:30:51 +1100"
     },
     "done": true
   },
   "immersiveengineering:main/villager": {
     "criteria": {
-      "meet_machinist": "2024-10-23 10:31:35 -0400"
+      "meet_machinist": "2024-10-24 01:31:35 +1100"
     },
     "done": true
   },
   "apotheosis:affix/gem": {
     "criteria": {
-      "gem": "2024-10-23 10:32:15 -0400"
+      "gem": "2024-10-24 01:32:15 +1100"
     },
     "done": true
   },
   "biomancy:biomancy/raw_meat_collection": {
     "criteria": {
-      "has_raw_beef": "2024-10-23 10:32:25 -0400",
-      "has_raw_mutton": "2024-10-23 10:32:41 -0400",
-      "has_raw_porkchop": "2024-10-23 10:32:27 -0400",
-      "has_raw_chicken": "2024-11-09 05:52:53 -0500"
+      "has_raw_beef": "2024-10-24 01:32:25 +1100",
+      "has_raw_mutton": "2024-10-24 01:32:41 +1100",
+      "has_raw_porkchop": "2024-10-24 01:32:27 +1100",
+      "has_raw_chicken": "2024-11-09 21:52:53 +1100"
     },
     "done": true
   },
   "biomancy:biomancy/root": {
     "criteria": {
-      "has_raw_meats": "2024-10-23 10:32:25 -0400"
+      "has_raw_meats": "2024-10-24 01:32:25 +1100"
     },
     "done": true
   },
   "farmersdelight:main/craft_knife": {
     "criteria": {
-      "flint_knife": "2024-10-23 10:32:31 -0400"
+      "flint_knife": "2024-10-24 01:32:31 +1100"
     },
     "done": true
   },
   "apotheosis:affix/root": {
     "criteria": {
-      "sword": "2024-10-23 10:32:35 -0400"
+      "sword": "2024-10-24 01:32:35 +1100"
     },
     "done": true
   },
   "apotheosis:affix/chests": {
     "criteria": {
-      "sword": "2024-10-23 10:32:35 -0400"
+      "sword": "2024-10-24 01:32:35 +1100"
     },
     "done": true
   },
   "minecraft:story/root": {
     "criteria": {
-      "crafting_table": "2024-10-23 10:32:54 -0400"
+      "crafting_table": "2024-10-24 01:32:54 +1100"
     },
     "done": true
   },
   "lootr:1barrel": {
     "criteria": {
-      "opened_barrel": "2024-10-23 10:33:09 -0400"
+      "opened_barrel": "2024-10-24 01:33:09 +1100"
     },
     "done": true
   },
   "apotheosis:affix/rare": {
     "criteria": {
-      "sword": "2024-10-23 10:33:11 -0400"
+      "sword": "2024-10-24 01:33:11 +1100"
     },
     "done": true
   },
   "lootr:10loot": {
     "criteria": {
-      "loot_stat": "2024-10-23 10:48:38 -0400"
+      "loot_stat": "2024-10-24 01:48:38 +1100"
     },
     "done": true
   },
   "create:copper": {
     "criteria": {
-      "0": "2024-10-23 10:49:05 -0400"
+      "0": "2024-10-24 01:49:05 +1100"
     },
     "done": true
   },
   "ae2:main/root": {
     "criteria": {
-      "copper": "2024-10-23 10:49:05 -0400"
+      "copper": "2024-10-24 01:49:05 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/gutters": {
     "criteria": {
-      "has_planks": "2024-10-23 11:01:40 -0400"
+      "has_planks": "2024-10-24 02:01:40 +1100"
     },
     "done": true
   },
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
-      "has_item": "2024-10-23 11:01:40 -0400"
+      "has_item": "2024-10-24 02:01:40 +1100"
     },
     "done": true
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
-      "iron": "2024-10-23 11:01:40 -0400"
+      "iron": "2024-10-24 02:01:40 +1100"
     },
     "done": true
   },
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
-      "bestiary": "2024-10-23 11:03:27 -0400"
+      "bestiary": "2024-10-24 02:03:27 +1100"
     },
     "done": true
   },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "bestiary": "2024-10-23 11:03:38 -0400"
+      "bestiary": "2024-10-24 02:03:38 +1100"
     },
     "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "slept_in_bed": "2024-10-23 11:07:13 -0400"
+      "slept_in_bed": "2024-10-24 02:07:13 +1100"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
-      "killed_something": "2024-10-23 11:08:58 -0400"
+      "killed_something": "2024-10-24 02:08:58 +1100"
     },
     "done": true
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:blaze": "2024-10-25 09:36:45 -0400",
-      "minecraft:pillager": "2024-11-05 10:00:54 -0500",
-      "minecraft:skeleton": "2024-10-24 09:25:54 -0400",
-      "minecraft:ravager": "2024-11-05 10:13:05 -0500",
-      "minecraft:vindicator": "2024-11-05 10:07:35 -0500",
-      "minecraft:magma_cube": "2024-10-29 03:10:57 -0400",
-      "minecraft:spider": "2024-10-24 09:28:49 -0400",
-      "minecraft:creeper": "2024-10-23 12:15:45 -0400",
-      "minecraft:evoker": "2024-11-05 10:11:39 -0500",
-      "quark:forgotten": "2024-11-05 06:04:34 -0500",
-      "minecraft:zombified_piglin": "2024-10-29 03:21:08 -0400",
-      "minecraft:witch": "2024-11-05 06:06:19 -0500",
-      "minecraft:wither_skeleton": "2024-10-25 09:37:31 -0400",
-      "minecraft:cave_spider": "2024-10-24 09:33:38 -0400",
-      "minecraft:piglin": "2024-10-29 03:23:50 -0400",
-      "minecraft:enderman": "2024-10-25 10:17:02 -0400",
-      "minecraft:silverfish": "2024-10-25 09:50:53 -0400",
-      "minecraft:stray": "2024-11-08 09:10:01 -0500",
-      "minecraft:vex": "2024-11-05 10:13:04 -0500",
-      "minecraft:zombie": "2024-10-23 11:08:58 -0400",
-      "quark:foxhound": "2024-11-08 07:37:57 -0500",
-      "minecraft:drowned": "2024-11-08 03:33:43 -0500",
-      "minecraft:zombie_villager": "2024-10-26 19:48:34 -0400"
+      "minecraft:blaze": "2024-10-26 00:36:45 +1100",
+      "minecraft:pillager": "2024-11-06 02:00:54 +1100",
+      "minecraft:skeleton": "2024-10-25 00:25:54 +1100",
+      "minecraft:ravager": "2024-11-06 02:13:05 +1100",
+      "minecraft:vindicator": "2024-11-06 02:07:35 +1100",
+      "minecraft:magma_cube": "2024-10-29 18:10:57 +1100",
+      "minecraft:spider": "2024-10-25 00:28:49 +1100",
+      "minecraft:creeper": "2024-10-24 03:15:45 +1100",
+      "minecraft:evoker": "2024-11-06 02:11:39 +1100",
+      "quark:forgotten": "2024-11-05 22:04:34 +1100",
+      "minecraft:zombified_piglin": "2024-10-29 18:21:08 +1100",
+      "minecraft:witch": "2024-11-05 22:06:19 +1100",
+      "minecraft:wither_skeleton": "2024-10-26 00:37:31 +1100",
+      "minecraft:cave_spider": "2024-10-25 00:33:38 +1100",
+      "minecraft:piglin": "2024-10-29 18:23:50 +1100",
+      "minecraft:enderman": "2024-10-26 01:17:02 +1100",
+      "minecraft:silverfish": "2024-10-26 00:50:53 +1100",
+      "minecraft:stray": "2024-11-09 01:10:01 +1100",
+      "minecraft:vex": "2024-11-06 02:13:04 +1100",
+      "minecraft:zombie": "2024-10-24 02:08:58 +1100",
+      "quark:foxhound": "2024-11-08 23:37:57 +1100",
+      "minecraft:drowned": "2024-11-08 19:33:43 +1100",
+      "minecraft:zombie_villager": "2024-10-27 10:48:34 +1100"
     },
     "done": false
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "minecraft:zombie": "2024-10-23 11:08:58 -0400"
+      "minecraft:zombie": "2024-10-24 02:08:58 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/jungle": {
     "criteria": {
-      "has_planks": "2024-10-23 11:10:45 -0400"
+      "has_planks": "2024-10-24 02:10:45 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/jungle": {
     "criteria": {
-      "has_planks": "2024-10-23 11:10:45 -0400"
+      "has_planks": "2024-10-24 02:10:45 +1100"
     },
     "done": true
   },
   "apotheosis:affix/boss": {
     "criteria": {
-      "sword": "2024-10-23 11:12:09 -0400"
+      "sword": "2024-10-24 02:12:09 +1100"
     },
     "done": true
   },
   "lootr:25loot": {
     "criteria": {
-      "loot_stat": "2024-10-23 11:13:02 -0400"
+      "loot_stat": "2024-10-24 02:13:02 +1100"
     },
     "done": true
   },
   "apotheosis:affix/rare_gem": {
     "criteria": {
-      "gem": "2024-10-23 11:13:19 -0400"
+      "gem": "2024-10-24 02:13:19 +1100"
     },
     "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
-      "iron_boots": "2024-10-23 11:14:40 -0400"
+      "iron_boots": "2024-10-24 02:14:40 +1100"
     },
     "done": true
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-10-24 10:59:50 -0400",
-      "pumpkin_pie": "2024-10-26 19:00:43 -0400",
-      "bread": "2024-10-23 11:17:50 -0400",
-      "cooked_chicken": "2024-11-09 06:45:58 -0500"
+      "apple": "2024-10-25 01:59:50 +1100",
+      "pumpkin_pie": "2024-10-27 10:00:43 +1100",
+      "bread": "2024-10-24 02:17:50 +1100",
+      "cooked_chicken": "2024-11-09 22:45:58 +1100"
     },
     "done": false
   },
   "minecraft:husbandry/root": {
     "criteria": {
-      "consumed_item": "2024-10-23 11:17:50 -0400"
+      "consumed_item": "2024-10-24 02:17:50 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/jungle_planks": {
     "criteria": {
-      "has_planks": "2024-10-23 11:20:00 -0400"
+      "has_planks": "2024-10-24 02:20:00 +1100"
     },
     "done": true
   },
   "lootr:50loot": {
     "criteria": {
-      "loot_stat": "2024-10-23 11:20:57 -0400"
+      "loot_stat": "2024-10-24 02:20:57 +1100"
     },
     "done": true
   },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
-      "gem": "2024-10-23 11:23:08 -0400"
+      "gem": "2024-10-24 02:23:08 +1100"
     },
     "done": true
   },
   "minecraft:story/iron_tools": {
     "criteria": {
-      "iron_pickaxe": "2024-10-23 11:38:03 -0400"
+      "iron_pickaxe": "2024-10-24 02:38:03 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/oak": {
     "criteria": {
-      "has_planks": "2024-10-23 11:39:04 -0400"
+      "has_planks": "2024-10-24 02:39:04 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/oak": {
     "criteria": {
-      "has_planks": "2024-10-23 11:39:04 -0400"
+      "has_planks": "2024-10-24 02:39:04 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/grass": {
     "criteria": {
-      "has_planks": "2024-10-23 11:42:05 -0400"
+      "has_planks": "2024-10-24 02:42:05 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/oak_planks": {
     "criteria": {
-      "has_planks": "2024-10-23 11:49:32 -0400"
+      "has_planks": "2024-10-24 02:49:32 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/birch": {
     "criteria": {
-      "has_planks": "2024-10-23 11:51:26 -0400"
+      "has_planks": "2024-10-24 02:51:26 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/birch": {
     "criteria": {
-      "has_planks": "2024-10-23 11:51:26 -0400"
+      "has_planks": "2024-10-24 02:51:26 +1100"
     },
     "done": true
   },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
-      "cutting_board": "2024-10-23 11:56:15 -0400"
+      "cutting_board": "2024-10-24 02:56:15 +1100"
     },
     "done": true
   },
   "farmersdelight:main/place_campfire": {
     "criteria": {
-      "campfire": "2024-10-23 12:00:58 -0400"
+      "campfire": "2024-10-24 03:00:58 +1100"
     },
     "done": true
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "tamed_animal": "2024-10-23 12:06:56 -0400"
+      "tamed_animal": "2024-10-24 03:06:56 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/birch_planks": {
     "criteria": {
-      "has_planks": "2024-10-23 12:11:01 -0400"
+      "has_planks": "2024-10-24 03:11:01 +1100"
     },
     "done": true
   },
   "apotheosis:affix/random": {
     "criteria": {
-      "sword": "2024-10-24 07:39:31 -0400"
+      "sword": "2024-10-24 22:39:31 +1100"
     },
     "done": true
   },
   "create:andesite_alloy": {
     "criteria": {
-      "0": "2024-10-24 08:16:36 -0400"
+      "0": "2024-10-24 23:16:36 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/concrete": {
     "criteria": {
-      "has_planks": "2024-10-24 08:38:41 -0400"
+      "has_planks": "2024-10-24 23:38:41 +1100"
     },
     "done": true
   },
   "quark:crawl_in_hollow_log": {
     "criteria": {
-      "crawl_in_hollow_log": "2024-10-24 08:44:49 -0400"
+      "crawl_in_hollow_log": "2024-10-24 23:44:49 +1100"
     },
     "done": true
   },
   "ars_nouveau:novice_spell_book": {
     "criteria": {
-      "has_novice_spell_book": "2024-10-24 08:55:02 -0400"
+      "has_novice_spell_book": "2024-10-24 23:55:02 +1100"
     },
     "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
-      "get_stone": "2024-10-24 08:58:35 -0400"
+      "get_stone": "2024-10-24 23:58:35 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/stone": {
     "criteria": {
-      "has_planks": "2024-10-24 08:58:35 -0400"
+      "has_planks": "2024-10-24 23:58:35 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
-      "has_planks": "2024-10-24 08:58:35 -0400"
+      "has_planks": "2024-10-24 23:58:35 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/sandstone": {
     "criteria": {
-      "has_planks": "2024-10-24 09:07:39 -0400"
+      "has_planks": "2024-10-25 00:07:39 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/sandstone": {
     "criteria": {
-      "has_planks": "2024-10-24 09:07:39 -0400"
+      "has_planks": "2024-10-25 00:07:39 +1100"
     },
     "done": true
   },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
-      "has_item": "2024-10-24 09:10:44 -0400"
+      "has_item": "2024-10-25 00:10:44 +1100"
     },
     "done": true
   },
   "immersiveengineering:main/mb_cokeoven": {
     "criteria": {
-      "form_multiblock": "2024-10-24 09:10:47 -0400"
+      "form_multiblock": "2024-10-25 00:10:47 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
-      "has_planks": "2024-10-24 09:25:02 -0400"
+      "has_planks": "2024-10-25 00:25:02 +1100"
     },
     "done": true
   },
   "minecraft:story/deflect_arrow": {
     "criteria": {
-      "deflected_projectile": "2024-10-24 09:25:43 -0400"
+      "deflected_projectile": "2024-10-25 00:25:43 +1100"
     },
     "done": true
   },
   "lootr:1cart": {
     "criteria": {
-      "opened_cart": "2024-10-24 09:26:01 -0400"
+      "opened_cart": "2024-10-25 00:26:01 +1100"
     },
     "done": true
   },
   "pneumaticcraft:root": {
     "criteria": {
-      "0": "2024-10-24 09:26:04 -0400"
+      "0": "2024-10-25 00:26:04 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/deepslate": {
     "criteria": {
-      "has_planks": "2024-10-24 09:29:34 -0400"
+      "has_planks": "2024-10-25 00:29:34 +1100"
     },
     "done": true
   },
   "mekanism:materials": {
     "criteria": {
-      "material": "2024-10-24 10:06:48 -0400"
+      "material": "2024-10-25 01:06:48 +1100"
     },
     "done": true
   },
   "mekanism:metallurgic_infuser": {
     "criteria": {
-      "metallurgic_infuser": "2024-10-24 10:13:25 -0400"
+      "metallurgic_infuser": "2024-10-25 01:13:25 +1100"
     },
     "done": true
   },
   "farmersdelight:main/plant_rice": {
     "criteria": {
-      "plant_rice": "2024-10-24 10:16:19 -0400"
+      "plant_rice": "2024-10-25 01:16:19 +1100"
     },
     "done": true
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "cabbage": "2024-11-02 04:44:22 -0400",
-      "onion": "2024-11-02 04:52:49 -0400",
-      "tomato": "2024-11-04 03:37:37 -0500",
-      "rice": "2024-10-24 10:16:19 -0400",
-      "kelp": "2024-11-08 04:53:26 -0500",
-      "sugar_cane": "2024-11-05 10:06:03 -0500",
-      "potato": "2024-10-28 01:23:11 -0400"
+      "cabbage": "2024-11-02 19:44:22 +1100",
+      "onion": "2024-11-02 19:52:49 +1100",
+      "tomato": "2024-11-04 19:37:37 +1100",
+      "rice": "2024-10-25 01:16:19 +1100",
+      "kelp": "2024-11-08 20:53:26 +1100",
+      "sugar_cane": "2024-11-06 02:06:03 +1100",
+      "potato": "2024-10-28 16:23:11 +1100"
     },
     "done": false
   },
   "immersiveengineering:main/creosote": {
     "criteria": {
-      "has_item": "2024-10-24 10:16:38 -0400"
+      "has_item": "2024-10-25 01:16:38 +1100"
     },
     "done": true
   },
   "immersiveengineering:main/craft_treatedwood": {
     "criteria": {
-      "has_item": "2024-10-24 10:16:47 -0400"
+      "has_item": "2024-10-25 01:16:47 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/diorite": {
     "criteria": {
-      "has_planks": "2024-10-24 10:23:07 -0400"
+      "has_planks": "2024-10-25 01:23:07 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/diorite": {
     "criteria": {
-      "has_planks": "2024-10-24 10:23:07 -0400"
+      "has_planks": "2024-10-25 01:23:07 +1100"
     },
     "done": true
   },
   "mekanism:steel_ingot": {
     "criteria": {
-      "ingot_steel": "2024-10-24 10:33:38 -0400"
+      "ingot_steel": "2024-10-25 01:33:38 +1100"
     },
     "done": true
   },
   "mekanism:steel_casing": {
     "criteria": {
-      "steel_casing": "2024-10-24 10:34:07 -0400"
+      "steel_casing": "2024-10-25 01:34:07 +1100"
     },
     "done": true
   },
   "mekanism:basic_control_circuit": {
     "criteria": {
-      "basic_control_circuit": "2024-10-24 10:36:48 -0400"
+      "basic_control_circuit": "2024-10-25 01:36:48 +1100"
     },
     "done": true
   },
   "mekanism:enricher": {
     "criteria": {
-      "enrichment_chamber": "2024-10-24 10:36:52 -0400"
+      "enrichment_chamber": "2024-10-25 01:36:52 +1100"
     },
     "done": true
   },
   "mekanism:infusing_efficiency": {
     "criteria": {
-      "enriched_material": "2024-10-24 10:40:27 -0400"
+      "enriched_material": "2024-10-25 01:40:27 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/stone": {
     "criteria": {
-      "has_planks": "2024-10-24 10:57:13 -0400"
+      "has_planks": "2024-10-25 01:57:13 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/stone_bricks": {
     "criteria": {
-      "has_planks": "2024-10-24 10:57:13 -0400"
+      "has_planks": "2024-10-25 01:57:13 +1100"
     },
     "done": true
   },
   "immersiveengineering:main/place_dynamo": {
     "criteria": {
-      "place_block": "2024-10-24 10:57:56 -0400"
+      "place_block": "2024-10-25 01:57:56 +1100"
     },
     "done": true
   },
   "dimdoors:dimdoors/door_to_adventure": {
     "criteria": {
-      "enter_dungeon": "2024-10-24 11:02:21 -0400"
+      "enter_dungeon": "2024-10-25 02:02:21 +1100"
     },
     "done": true
   },
   "mekanism:energy_transport": {
     "criteria": {
-      "basic_universal_cable": "2024-10-24 11:29:06 -0400"
+      "basic_universal_cable": "2024-10-25 02:29:06 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/terracotta": {
     "criteria": {
-      "has_planks": "2024-10-24 11:32:55 -0400"
+      "has_planks": "2024-10-25 02:32:55 +1100"
     },
     "done": true
   },
   "immersiveengineering:main/connect_wire": {
     "criteria": {
-      "code_trigger": "2024-10-24 11:37:35 -0400"
+      "code_trigger": "2024-10-25 02:37:35 +1100"
     },
     "done": true
   },
   "mekanism:infused_alloy": {
     "criteria": {
-      "alloy_infused": "2024-10-24 12:06:33 -0400"
+      "alloy_infused": "2024-10-25 03:06:33 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/granite": {
     "criteria": {
-      "has_planks": "2024-10-24 12:10:44 -0400"
+      "has_planks": "2024-10-25 03:10:44 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/granite": {
     "criteria": {
-      "has_planks": "2024-10-24 12:10:44 -0400"
+      "has_planks": "2024-10-25 03:10:44 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/andesite": {
     "criteria": {
-      "has_planks": "2024-10-24 12:11:10 -0400"
+      "has_planks": "2024-10-25 03:11:10 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/andesite": {
     "criteria": {
-      "has_planks": "2024-10-24 12:11:10 -0400"
+      "has_planks": "2024-10-25 03:11:10 +1100"
     },
     "done": true
   },
   "create:mechanical_pump_0": {
     "criteria": {
-      "0": "2024-10-24 12:24:33 -0400"
+      "0": "2024-10-25 03:24:33 +1100"
     },
     "done": true
   },
   "create:water_wheel": {
     "criteria": {
-      "0": "2024-10-24 12:24:33 -0400"
+      "0": "2024-10-25 03:24:33 +1100"
     },
     "done": true
   },
   "create:water_supply": {
     "criteria": {
-      "0": "2024-10-24 12:24:59 -0400"
+      "0": "2024-10-25 03:24:59 +1100"
     },
     "done": true
   },
   "mekanismgenerators:burn_the_gas": {
     "criteria": {
-      "gas_burning_generator": "2024-10-24 12:33:12 -0400"
+      "gas_burning_generator": "2024-10-25 03:33:12 +1100"
     },
     "done": true
   },
   "mekanism:chemical_tank": {
     "criteria": {
-      "basic_chemical_tank": "2024-10-24 12:33:54 -0400"
+      "basic_chemical_tank": "2024-10-25 03:33:54 +1100"
     },
     "done": true
   },
   "mekanism:advanced_control_circuit": {
     "criteria": {
-      "advanced_control_circuit": "2024-10-24 12:39:56 -0400"
+      "advanced_control_circuit": "2024-10-25 03:39:56 +1100"
     },
     "done": true
   },
   "mekanism:purification_chamber": {
     "criteria": {
-      "purification_chamber": "2024-10-24 12:47:16 -0400"
+      "purification_chamber": "2024-10-25 03:47:16 +1100"
     },
     "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
-      "lava_bucket": "2024-10-24 12:50:51 -0400"
+      "lava_bucket": "2024-10-25 03:50:51 +1100"
     },
     "done": true
   },
   "immersiveengineering:multiblocks/craft_sheetmetal": {
     "criteria": {
-      "has_item": "2024-10-24 13:16:48 -0400"
+      "has_item": "2024-10-25 04:16:48 +1100"
     },
     "done": true
   },
   "immersiveengineering:main/craft_heater": {
     "criteria": {
-      "has_item": "2024-10-24 13:17:35 -0400"
+      "has_item": "2024-10-25 04:17:35 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/brick": {
     "criteria": {
-      "has_planks": "2024-10-24 13:34:49 -0400"
+      "has_planks": "2024-10-25 04:34:49 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/bricks": {
     "criteria": {
-      "has_planks": "2024-10-24 13:34:49 -0400"
+      "has_planks": "2024-10-25 04:34:49 +1100"
     },
     "done": true
   },
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
-      "cooking_pot": "2024-10-24 13:43:02 -0400"
+      "cooking_pot": "2024-10-25 04:43:02 +1100"
     },
     "done": true
   },
   "farmersdelight:main/harvest_straw": {
     "criteria": {
-      "harvest_straw": "2024-10-25 09:12:39 -0400"
+      "harvest_straw": "2024-10-26 00:12:39 +1100"
     },
     "done": true
   },
   "minecraft:story/form_obsidian": {
     "criteria": {
-      "obsidian": "2024-10-25 09:17:04 -0400"
+      "obsidian": "2024-10-26 00:17:04 +1100"
     },
     "done": true
   },
   "quark:get_diamond_heart": {
     "criteria": {
-      "get_diamond_heart": "2024-10-25 09:22:51 -0400"
+      "get_diamond_heart": "2024-10-26 00:22:51 +1100"
     },
     "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
-      "entered_nether": "2024-10-25 09:36:00 -0400"
+      "entered_nether": "2024-10-26 00:36:00 +1100"
     },
     "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
-      "entered_nether": "2024-10-25 09:36:00 -0400"
+      "entered_nether": "2024-10-26 00:36:00 +1100"
     },
     "done": true
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2024-11-05 23:28:38 -0500",
-      "minecraft:nether_wastes": "2024-10-25 10:24:47 -0400",
-      "minecraft:basalt_deltas": "2024-10-25 10:00:21 -0400",
-      "minecraft:warped_forest": "2024-10-25 09:36:06 -0400"
+      "minecraft:crimson_forest": "2024-11-06 15:28:38 +1100",
+      "minecraft:nether_wastes": "2024-10-26 01:24:47 +1100",
+      "minecraft:basalt_deltas": "2024-10-26 01:00:21 +1100",
+      "minecraft:warped_forest": "2024-10-26 00:36:06 +1100"
     },
     "done": false
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
-      "in_better_fortress": "2024-10-25 09:36:09 -0400"
+      "in_better_fortress": "2024-10-26 00:36:09 +1100"
     },
     "done": true
   },
   "apotheosis:affix/epic": {
     "criteria": {
-      "sword": "2024-10-25 09:36:23 -0400"
+      "sword": "2024-10-26 00:36:23 +1100"
     },
     "done": true
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
-      "diamond": "2024-10-25 09:36:26 -0400"
+      "diamond": "2024-10-26 00:36:26 +1100"
     },
     "done": true
   },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "blaze_rod": "2024-10-25 09:40:02 -0400"
+      "blaze_rod": "2024-10-26 00:40:02 +1100"
     },
     "done": true
   },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
-      "comfort": "2024-10-25 09:56:06 -0400"
+      "comfort": "2024-10-26 00:56:06 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/red_nether_bricks": {
     "criteria": {
-      "has_planks": "2024-10-25 10:01:36 -0400"
+      "has_planks": "2024-10-26 01:01:36 +1100"
     },
     "done": true
   },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "wither_skull": "2024-10-25 10:02:18 -0400"
+      "wither_skull": "2024-10-26 01:02:18 +1100"
     },
     "done": true
   },
   "dimdoors:dimdoors/root": {
     "criteria": {
-      "inventory_changed": "2024-10-25 10:28:29 -0400"
+      "inventory_changed": "2024-10-26 01:28:29 +1100"
     },
     "done": true
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2024-10-25 10:31:49 -0400",
-      "minecraft:sheep": "2024-10-28 02:06:09 -0400",
-      "minecraft:chicken": "2024-11-09 05:52:43 -0500"
+      "minecraft:cow": "2024-10-26 01:31:49 +1100",
+      "minecraft:sheep": "2024-10-28 17:06:09 +1100",
+      "minecraft:chicken": "2024-11-09 21:52:43 +1100"
     },
     "done": false
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "bred": "2024-10-25 10:31:49 -0400"
+      "bred": "2024-10-26 01:31:49 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/awning": {
     "criteria": {
-      "has_planks": "2024-10-25 10:34:14 -0400"
+      "has_planks": "2024-10-26 01:34:14 +1100"
     },
     "done": true
   },
   "petrolsparts:root": {
     "criteria": {
-      "automatic": "2024-10-26 18:41:20 -0400"
+      "automatic": "2024-10-27 09:41:20 +1100"
     },
     "done": true
   },
   "hexcasting:grant_patchi_book": {
     "criteria": {
-      "tick": "2024-10-26 18:41:21 -0400"
+      "tick": "2024-10-27 09:41:21 +1100"
     },
     "done": true
   },
   "supplementaries:adventure/globe": {
     "criteria": {
-      "unlock": "2024-10-26 18:50:31 -0400"
+      "unlock": "2024-10-27 09:50:31 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/quartz": {
     "criteria": {
-      "has_planks": "2024-10-26 19:11:31 -0400"
+      "has_planks": "2024-10-27 10:11:31 +1100"
     },
     "done": true
   },
   "ars_nouveau:apprentice_spell_book": {
     "criteria": {
-      "has_apprentice_spell_book": "2024-10-26 19:12:13 -0400"
+      "has_apprentice_spell_book": "2024-10-27 10:12:13 +1100"
     },
     "done": true
   },
   "mekanism:configurator": {
     "criteria": {
-      "configurator": "2024-10-26 19:18:28 -0400"
+      "configurator": "2024-10-27 10:18:28 +1100"
     },
     "done": true
   },
   "immersiveengineering:tools/craft_revolver": {
     "criteria": {
-      "has_item": "2024-10-28 01:10:17 -0400"
+      "has_item": "2024-10-28 16:10:17 +1100"
     },
     "done": true
   },
   "hexcasting:lore/cardamom1": {
     "criteria": {
-      "grant": "2024-10-28 01:35:21 -0400"
+      "grant": "2024-10-28 16:35:21 +1100"
     },
     "done": true
   },
   "hexcasting:lore": {
     "criteria": {
-      "used_item": "2024-10-28 01:35:21 -0400"
+      "used_item": "2024-10-28 16:35:21 +1100"
     },
     "done": true
   },
   "hexcasting:lore/cardamom5": {
     "criteria": {
-      "grant": "2024-10-28 01:35:26 -0400"
+      "grant": "2024-10-28 16:35:26 +1100"
     },
     "done": true
   },
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
-      "bookshelf": "2024-10-28 01:35:50 -0400"
+      "bookshelf": "2024-10-28 16:35:50 +1100"
     },
     "done": true
   },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
-      "bestiary": "2024-10-28 01:36:48 -0400"
+      "bestiary": "2024-10-28 16:36:48 +1100"
     },
     "done": true
   },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
-      "requirement": "2024-10-28 01:37:16 -0400"
+      "requirement": "2024-10-28 16:37:16 +1100"
     },
     "done": true
   },
   "lootr:100loot": {
     "criteria": {
-      "loot_stat": "2024-10-28 01:37:42 -0400"
+      "loot_stat": "2024-10-28 16:37:42 +1100"
     },
     "done": true
   },
   "hexcasting:lore/experiment1": {
     "criteria": {
-      "grant": "2024-10-28 01:38:49 -0400"
+      "grant": "2024-10-28 16:38:49 +1100"
     },
     "done": true
   },
   "immersiveengineering:main/main_root": {
     "criteria": {
-      "has_item": "2024-10-28 02:04:22 -0400"
+      "has_item": "2024-10-28 17:04:22 +1100"
     },
     "done": true
   },
   "pneumaticcraft:pressure_tube": {
     "criteria": {
-      "0": "2024-10-28 02:11:57 -0400"
+      "0": "2024-10-28 17:11:57 +1100"
     },
     "done": true
   },
   "pneumaticcraft:pressure_chamber": {
     "criteria": {
-      "0": "2024-10-28 02:21:19 -0400"
+      "0": "2024-10-28 17:21:19 +1100"
     },
     "done": true
   },
   "pneumaticcraft:air_compressor": {
     "criteria": {
-      "0": "2024-10-28 02:23:00 -0400"
+      "0": "2024-10-28 17:23:00 +1100"
     },
     "done": true
   },
   "ars_nouveau:warp_scroll": {
     "criteria": {
-      "has_warp_scroll": "2024-10-28 03:14:35 -0400"
+      "has_warp_scroll": "2024-10-28 18:14:35 +1100"
     },
     "done": true
   },
   "hexcasting:lore/experiment2": {
     "criteria": {
-      "grant": "2024-10-28 03:14:50 -0400"
+      "grant": "2024-10-28 18:14:50 +1100"
     },
     "done": true
   },
   "hexcasting:lore/cardamom3": {
     "criteria": {
-      "grant": "2024-10-28 03:15:04 -0400"
+      "grant": "2024-10-28 18:15:04 +1100"
     },
     "done": true
   },
   "mekanism:installer": {
     "criteria": {
-      "installer": "2024-10-28 03:25:34 -0400"
+      "installer": "2024-10-28 18:25:34 +1100"
     },
     "done": true
   },
   "mekanism:item_transport": {
     "criteria": {
-      "basic_logistical_transporter": "2024-10-28 03:36:11 -0400"
+      "basic_logistical_transporter": "2024-10-28 18:36:11 +1100"
     },
     "done": true
   },
   "mekanism:energy_cube": {
     "criteria": {
-      "basic_energy_cube": "2024-10-29 01:11:25 -0400"
+      "basic_energy_cube": "2024-10-29 16:11:25 +1100"
     },
     "done": true
   },
   "minecraft:adventure/throw_trident": {
     "criteria": {
-      "shot_trident": "2024-10-29 01:16:02 -0400"
+      "shot_trident": "2024-10-29 16:16:02 +1100"
     },
     "done": true
   },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
-      "dark_metallurgy_0": "2024-10-29 01:20:22 -0400"
+      "dark_metallurgy_0": "2024-10-29 16:20:22 +1100"
     },
     "done": true
   },
   "ae2:main/presses": {
     "criteria": {
-      "calculation": "2024-10-30 02:28:01 -0400",
-      "silicon": "2024-10-29 01:58:07 -0400",
-      "engineering": "2024-10-30 02:20:36 -0400",
-      "logic": "2024-10-30 02:28:00 -0400"
+      "calculation": "2024-10-30 17:28:01 +1100",
+      "silicon": "2024-10-29 16:58:07 +1100",
+      "engineering": "2024-10-30 17:20:36 +1100",
+      "logic": "2024-10-30 17:28:00 +1100"
     },
     "done": true
   },
   "ae2:main/charger": {
     "criteria": {
-      "certus": "2024-10-29 02:10:38 -0400"
+      "certus": "2024-10-29 17:10:38 +1100"
     },
     "done": true
   },
   "ae2:main/charged_quartz": {
     "criteria": {
-      "certus": "2024-10-29 02:10:59 -0400"
+      "certus": "2024-10-29 17:10:59 +1100"
     },
     "done": true
   },
   "ae2:main/fluix": {
     "criteria": {
-      "certus": "2024-10-29 02:28:40 -0400"
+      "certus": "2024-10-29 17:28:40 +1100"
     },
     "done": true
   },
   "ae2:main/glass_cable": {
     "criteria": {
-      "certus": "2024-10-29 02:31:33 -0400"
+      "certus": "2024-10-29 17:31:33 +1100"
     },
     "done": true
   },
   "hexcasting:lore/cardamom4": {
     "criteria": {
-      "grant": "2024-10-29 02:49:42 -0400"
+      "grant": "2024-10-29 17:49:42 +1100"
     },
     "done": true
   },
   "hexcasting:lore/cardamom2": {
     "criteria": {
-      "grant": "2024-10-29 02:50:24 -0400"
+      "grant": "2024-10-29 17:50:24 +1100"
     },
     "done": true
   },
   "hexcasting:lore/inventory": {
     "criteria": {
-      "grant": "2024-10-29 02:50:36 -0400"
+      "grant": "2024-10-29 17:50:36 +1100"
     },
     "done": true
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
-      "diamond_boots": "2024-10-29 03:07:43 -0400"
+      "diamond_boots": "2024-10-29 18:07:43 +1100"
     },
     "done": true
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_warped": "2024-10-29 03:23:17 -0400"
+      "in_village_warped": "2024-10-29 18:23:17 +1100"
     },
     "done": false
   },
   "minecraft:nether/brew_potion": {
     "criteria": {
-      "potion": "2024-10-29 03:28:03 -0400"
+      "potion": "2024-10-29 18:28:03 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/bamboo": {
     "criteria": {
-      "has_planks": "2024-10-30 01:04:42 -0400"
+      "has_planks": "2024-10-30 16:04:42 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/bamboo_planks": {
     "criteria": {
-      "has_planks": "2024-10-30 01:05:19 -0400"
+      "has_planks": "2024-10-30 16:05:19 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/bamboo_mosaic": {
     "criteria": {
-      "has_planks": "2024-10-30 01:05:19 -0400"
+      "has_planks": "2024-10-30 16:05:19 +1100"
     },
     "done": true
   },
   "apotheosis:spawner/root": {
     "criteria": {
-      "spawner": "2024-10-30 02:27:21 -0400"
+      "spawner": "2024-10-30 17:27:21 +1100"
     },
     "done": true
   },
   "ae2:main/storage_cell": {
     "criteria": {
-      "c4k": "2024-10-30 02:38:45 -0400"
+      "c4k": "2024-10-30 17:38:45 +1100"
     },
     "done": true
   },
   "ae2:main/controller": {
     "criteria": {
-      "certus": "2024-10-30 02:49:42 -0400"
+      "certus": "2024-10-30 17:49:42 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/prismarine": {
     "criteria": {
-      "has_planks": "2024-10-30 02:55:11 -0400"
+      "has_planks": "2024-10-30 17:55:11 +1100"
     },
     "done": true
   },
   "ae2:main/crafting_terminal": {
     "criteria": {
-      "certus": "2024-10-30 03:04:29 -0400"
+      "certus": "2024-10-30 18:04:29 +1100"
     },
     "done": true
   },
   "mekanism:hydrogen_powered_flight": {
     "criteria": {
-      "jetpack": "2024-10-30 04:22:52 -0400"
+      "jetpack": "2024-10-30 19:22:52 +1100"
     },
     "done": true
   },
   "mekanism:running_free": {
     "criteria": {
-      "free_runners": "2024-10-30 04:39:11 -0400"
+      "free_runners": "2024-10-30 19:39:11 +1100"
     },
     "done": true
   },
   "apotheosis:affix/socket": {
     "criteria": {
-      "socket": "2024-10-30 04:54:58 -0400"
+      "socket": "2024-10-30 19:54:58 +1100"
     },
     "done": true
   },
   "mekanism:fluid_tank": {
     "criteria": {
-      "basic_fluid_tank": "2024-11-04 02:40:54 -0500"
+      "basic_fluid_tank": "2024-11-04 18:40:54 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/mangrove": {
     "criteria": {
-      "has_planks": "2024-11-04 02:58:07 -0500"
+      "has_planks": "2024-11-04 18:58:07 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/mangrove": {
     "criteria": {
-      "has_planks": "2024-11-04 02:58:07 -0500"
+      "has_planks": "2024-11-04 18:58:07 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/cherry": {
     "criteria": {
-      "has_planks": "2024-11-04 02:58:19 -0500"
+      "has_planks": "2024-11-04 18:58:19 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/cherry": {
     "criteria": {
-      "has_planks": "2024-11-04 02:58:19 -0500"
+      "has_planks": "2024-11-04 18:58:19 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/cherry_planks": {
     "criteria": {
-      "has_planks": "2024-11-04 02:58:32 -0500"
+      "has_planks": "2024-11-04 18:58:32 +1100"
     },
     "done": true
   },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "fighting_nightmares_0": "2024-11-04 03:14:01 -0500"
+      "fighting_nightmares_0": "2024-11-04 19:14:01 +1100"
     },
     "done": true
   },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
-      "big_boy_0": "2024-11-04 04:09:21 -0500"
+      "big_boy_0": "2024-11-04 20:09:21 +1100"
     },
     "done": true
   },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
-      "bypassingthe_expiration_date_0": "2024-11-04 04:30:54 -0500"
+      "bypassingthe_expiration_date_0": "2024-11-04 20:30:54 +1100"
     },
     "done": true
   },
   "create:andesite_casing": {
     "criteria": {
-      "0": "2024-11-04 04:39:32 -0500"
+      "0": "2024-11-04 20:39:32 +1100"
     },
     "done": true
   },
   "create:super_glue": {
     "criteria": {
-      "0": "2024-11-04 04:56:22 -0500"
+      "0": "2024-11-04 20:56:22 +1100"
     },
     "done": true
   },
   "create:contraption_actors": {
     "criteria": {
-      "0": "2024-11-04 04:56:31 -0500"
+      "0": "2024-11-04 20:56:31 +1100"
     },
     "done": true
   },
   "create:portable_storage_interface": {
     "criteria": {
-      "0": "2024-11-04 05:19:30 -0500"
+      "0": "2024-11-04 21:19:30 +1100"
     },
     "done": true
   },
   "ae2:main/storage_bus": {
     "criteria": {
-      "part": "2024-11-04 05:30:02 -0500"
+      "part": "2024-11-04 21:30:02 +1100"
     },
     "done": true
   },
   "hexcasting:root": {
     "criteria": {
-      "has_charged_amethyst": "2024-11-04 23:35:45 -0500"
+      "has_charged_amethyst": "2024-11-05 15:35:45 +1100"
     },
     "done": true
   },
   "born_in_chaos_v1:pieceof_chaos": {
     "criteria": {
-      "pieceof_chaos_0": "2024-11-04 23:42:00 -0500"
+      "pieceof_chaos_0": "2024-11-05 15:42:00 +1100"
     },
     "done": true
   },
   "alexscaves:alexscaves/root": {
     "criteria": {
-      "underground_cabin": "2024-11-04 23:56:26 -0500"
+      "underground_cabin": "2024-11-05 15:56:26 +1100"
     },
     "done": true
   },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "cave_tablet": "2024-11-04 23:56:59 -0500"
+      "cave_tablet": "2024-11-05 15:56:59 +1100"
     },
     "done": true
   },
   "immersiveengineering:multiblocks/mb_fermenter": {
     "criteria": {
-      "form_multiblock": "2024-11-05 00:27:18 -0500"
+      "form_multiblock": "2024-11-05 16:27:18 +1100"
     },
     "done": true
   },
   "create:copper_casing": {
     "criteria": {
-      "0": "2024-11-05 00:43:05 -0500"
+      "0": "2024-11-05 16:43:05 +1100"
     },
     "done": true
   },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "exorcism_0": "2024-11-05 01:01:55 -0500"
+      "exorcism_0": "2024-11-05 17:01:55 +1100"
     },
     "done": true
   },
   "pneumaticcraft:biodiesel": {
     "criteria": {
-      "0": "2024-11-05 01:04:58 -0500"
+      "0": "2024-11-05 17:04:58 +1100"
     },
     "done": true
   },
   "mekanism:fluid_transport": {
     "criteria": {
-      "basic_mechanical_pipe": "2024-11-05 01:09:12 -0500"
+      "basic_mechanical_pipe": "2024-11-05 17:09:12 +1100"
     },
     "done": true
   },
   "dimdoors:dimdoors/unravelled_but_immutable": {
     "criteria": {
-      "get_the_immutable": "2024-11-05 02:36:55 -0500"
+      "get_the_immutable": "2024-11-05 18:36:55 +1100"
     },
     "done": true
   },
   "garnished:nut_tree": {
     "criteria": {
-      "obtain_ungarnished_nut": "2024-11-05 02:45:30 -0500"
+      "obtain_ungarnished_nut": "2024-11-05 18:45:30 +1100"
     },
     "done": true
   },
   "garnished:buhg": {
     "criteria": {
-      "obtain_peanut": "2024-11-05 02:45:30 -0500"
+      "obtain_peanut": "2024-11-05 18:45:30 +1100"
     },
     "done": true
   },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
-      "cave_book": "2024-11-05 03:03:28 -0500"
+      "cave_book": "2024-11-05 19:03:28 +1100"
     },
     "done": true
   },
   "ars_nouveau:source_jar": {
     "criteria": {
-      "has_source_jar": "2024-11-05 06:37:41 -0500"
+      "has_source_jar": "2024-11-05 22:37:41 +1100"
     },
     "done": true
   },
   "ars_nouveau:imbuement_chamber": {
     "criteria": {
-      "has_imbuement_chamber": "2024-11-05 06:44:03 -0500"
+      "has_imbuement_chamber": "2024-11-05 22:44:03 +1100"
     },
     "done": true
   },
   "farmersdelight:main/place_organic_compost": {
     "criteria": {
-      "place_organic_compost": "2024-11-05 07:01:41 -0500"
+      "place_organic_compost": "2024-11-05 23:01:41 +1100"
     },
     "done": true
   },
   "farmersdelight:main/get_rich_soil": {
     "criteria": {
-      "get_rich_soil": "2024-11-05 09:06:37 -0500"
+      "get_rich_soil": "2024-11-06 01:06:37 +1100"
     },
     "done": true
   },
   "apotheosis:enchanting/enchanting_stats": {
     "criteria": {
-      "enchanted_item": "2024-11-05 09:24:47 -0500"
+      "enchanted_item": "2024-11-06 01:24:47 +1100"
     },
     "done": true
   },
   "apotheosis:enchanting/30ench": {
     "criteria": {
-      "enchanted_item": "2024-11-05 09:24:47 -0500"
+      "enchanted_item": "2024-11-06 01:24:47 +1100"
     },
     "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {
-      "enchanted_item": "2024-11-05 09:24:47 -0500"
+      "enchanted_item": "2024-11-06 01:24:47 +1100"
     },
     "done": true
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2024-11-08 05:37:47 -0500",
-      "1": "2024-11-05 09:40:17 -0500"
+      "0": "2024-11-08 21:37:47 +1100",
+      "1": "2024-11-06 01:40:17 +1100"
     },
     "done": true
   },
   "create:brass": {
     "criteria": {
-      "0": "2024-11-05 09:59:50 -0500"
+      "0": "2024-11-06 01:59:50 +1100"
     },
     "done": true
   },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "voluntary_exile": "2024-11-05 10:01:24 -0500"
+      "voluntary_exile": "2024-11-06 02:01:24 +1100"
     },
     "done": true
   },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "hero_of_the_village": "2024-11-05 10:13:29 -0500"
+      "hero_of_the_village": "2024-11-06 02:13:29 +1100"
     },
     "done": true
   },
   "create:brass_casing": {
     "criteria": {
-      "0": "2024-11-05 10:14:54 -0500"
+      "0": "2024-11-06 02:14:54 +1100"
     },
     "done": true
   },
   "pneumaticcraft:tp_plant": {
     "criteria": {
-      "0": "2024-11-05 11:08:29 -0500"
+      "0": "2024-11-06 03:08:29 +1100"
     },
     "done": true
   },
   "pneumaticcraft:vortex_tube": {
     "criteria": {
-      "0": "2024-11-05 11:32:12 -0500"
+      "0": "2024-11-06 03:32:12 +1100"
     },
     "done": true
   },
   "pneumaticcraft:lubricant_bucket": {
     "criteria": {
-      "0": "2024-11-05 11:35:36 -0500"
+      "0": "2024-11-06 03:35:36 +1100"
     },
     "done": true
   },
   "pneumaticcraft:speed_upgrade": {
     "criteria": {
-      "0": "2024-11-05 11:37:43 -0500"
+      "0": "2024-11-06 03:37:43 +1100"
     },
     "done": true
   },
   "pneumaticcraft:logistics_drone": {
     "criteria": {
-      "0": "2024-11-05 12:05:26 -0500"
+      "0": "2024-11-06 04:05:26 +1100"
     },
     "done": true
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
-      "squireofthe_dark_lord_6": "2024-11-05 22:43:44 -0500"
+      "squireofthe_dark_lord_6": "2024-11-06 14:43:44 +1100"
     },
     "done": false
   },
   "apotheosis:enchanting/enchanter": {
     "criteria": {
-      "enchanting_table": "2024-11-05 23:01:12 -0500"
+      "enchanting_table": "2024-11-06 15:01:12 +1100"
     },
     "done": true
   },
   "apotheosis:enchanting/quanta0": {
     "criteria": {
-      "enchanted_item": "2024-11-05 23:03:19 -0500"
+      "enchanted_item": "2024-11-06 15:03:19 +1100"
     },
     "done": true
   },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "shot_crossbow": "2024-11-06 00:46:41 -0500"
+      "shot_crossbow": "2024-11-06 16:46:41 +1100"
     },
     "done": true
   },
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
-      "double_trouble_0": "2024-11-06 00:51:59 -0500"
+      "double_trouble_0": "2024-11-06 16:51:59 +1100"
     },
     "done": true
   },
   "pneumaticcraft:logistics_configurator": {
     "criteria": {
-      "0": "2024-11-06 01:27:24 -0500"
+      "0": "2024-11-06 17:27:24 +1100"
     },
     "done": true
   },
   "pneumaticcraft:plastic": {
     "criteria": {
-      "0": "2024-11-06 02:16:22 -0500"
+      "0": "2024-11-06 18:16:22 +1100"
     },
     "done": true
   },
   "pneumaticcraft:amadron_tablet": {
     "criteria": {
-      "0": "2024-11-06 04:57:41 -0500"
+      "0": "2024-11-06 20:57:41 +1100"
     },
     "done": true
   },
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
-      "requirement": "2024-11-06 06:30:49 -0500"
+      "requirement": "2024-11-06 22:30:49 +1100"
     },
     "done": true
   },
   "pneumaticcraft:pcb_blueprint": {
     "criteria": {
-      "0": "2024-11-08 01:59:48 -0500"
+      "0": "2024-11-08 17:59:48 +1100"
     },
     "done": true
   },
   "pneumaticcraft:uv_light_box": {
     "criteria": {
-      "0": "2024-11-08 02:00:07 -0500"
+      "0": "2024-11-08 18:00:07 +1100"
     },
     "done": true
   },
   "pneumaticcraft:empty_pcb": {
     "criteria": {
-      "0": "2024-11-08 02:49:47 -0500"
+      "0": "2024-11-08 18:49:47 +1100"
     },
     "done": true
   },
   "pneumaticcraft:etchacid_bucket": {
     "criteria": {
-      "0": "2024-11-08 03:07:01 -0500"
+      "0": "2024-11-08 19:07:01 +1100"
     },
     "done": true
   },
   "create:burner": {
     "criteria": {
-      "0": "2024-11-08 03:09:10 -0500"
+      "0": "2024-11-08 19:09:10 +1100"
     },
     "done": true
   },
   "tetra:spelunking/root": {
     "criteria": {
-      "spelunking": "2024-11-08 03:30:00 -0500"
+      "spelunking": "2024-11-08 19:30:00 +1100"
     },
     "done": true
   },
   "tetra:recipes/string": {
     "criteria": {
-      "got_string": "2024-11-08 04:31:08 -0500"
+      "got_string": "2024-11-08 20:31:08 +1100"
     },
     "done": true
   },
   "create:belt": {
     "criteria": {
-      "0": "2024-11-08 05:23:40 -0500"
+      "0": "2024-11-08 21:23:40 +1100"
     },
     "done": true
   },
   "pneumaticcraft:unassembled_pcb": {
     "criteria": {
-      "0": "2024-11-08 05:28:41 -0500"
+      "0": "2024-11-08 21:28:41 +1100"
     },
     "done": true
   },
   "pneumaticcraft:printed_circuit_board": {
     "criteria": {
-      "0": "2024-11-08 05:29:01 -0500"
+      "0": "2024-11-08 21:29:01 +1100"
     },
     "done": true
   },
   "pneumaticcraft:assembly_controller": {
     "criteria": {
-      "0": "2024-11-08 05:29:32 -0500"
+      "0": "2024-11-08 21:29:32 +1100"
     },
     "done": true
   },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
-      "good_demoman_0": "2024-11-08 05:36:11 -0500"
+      "good_demoman_0": "2024-11-08 21:36:11 +1100"
     },
     "done": true
   },
   "tetra:upgrades/toolbelt": {
     "criteria": {
-      "toolbelt": "2024-11-08 05:37:36 -0500"
+      "toolbelt": "2024-11-08 21:37:36 +1100"
     },
     "done": true
   },
   "immersiveengineering:tools/craft_drill": {
     "criteria": {
-      "has_item": "2024-11-08 05:37:58 -0500"
+      "has_item": "2024-11-08 21:37:58 +1100"
     },
     "done": true
   },
   "tetra:upgrades/root": {
     "criteria": {
-      "hammer": "2024-11-08 06:02:41 -0500"
+      "hammer": "2024-11-08 22:02:41 +1100"
     },
     "done": true
   },
   "tetra:upgrades/double_headed": {
     "criteria": {
-      "hammer": "2024-11-08 06:02:41 -0500"
+      "hammer": "2024-11-08 22:02:41 +1100"
     },
     "done": true
   },
   "tetra:story/more_upgrades": {
     "criteria": {
-      "hammer": "2024-11-08 06:02:41 -0500"
+      "hammer": "2024-11-08 22:02:41 +1100"
     },
     "done": true
   },
   "tetra:upgrades/repairs": {
     "criteria": {
-      "hammer": "2024-11-08 06:02:41 -0500"
+      "hammer": "2024-11-08 22:02:41 +1100"
     },
     "done": true
   },
   "pneumaticcraft:liquid_compressor": {
     "criteria": {
-      "0": "2024-11-08 06:03:40 -0500"
+      "0": "2024-11-08 22:03:40 +1100"
     },
     "done": true
   },
   "pneumaticcraft:advanced_pressure_tube": {
     "criteria": {
-      "0": "2024-11-08 06:32:26 -0500"
+      "0": "2024-11-08 22:32:26 +1100"
     },
     "done": true
   },
   "pneumaticcraft:entity_hack": {
     "criteria": {
-      "0": "2024-11-08 07:08:54 -0500"
+      "0": "2024-11-08 23:08:54 +1100"
     },
     "done": true
   },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "killed": "2024-11-08 07:32:47 -0500"
+      "killed": "2024-11-08 23:32:47 +1100"
     },
     "done": true
   },
   "minecraft:nether/find_bastion": {
     "criteria": {
-      "bastion": "2024-11-08 07:39:32 -0500"
+      "bastion": "2024-11-08 23:39:32 +1100"
     },
     "done": true
   },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
-      "useitem": "2024-11-08 07:42:54 -0500"
+      "useitem": "2024-11-08 23:42:54 +1100"
     },
     "done": true
   },
   "quark:foxhound_speed_up_furnace": {
     "criteria": {
-      "foxhound_speed_up_furnace": "2024-11-08 08:02:33 -0500"
+      "foxhound_speed_up_furnace": "2024-11-09 00:02:33 +1100"
     },
     "done": true
   },
   "mcwroofs:recipes/acacia": {
     "criteria": {
-      "has_planks": "2024-11-08 08:26:40 -0500"
+      "has_planks": "2024-11-09 00:26:40 +1100"
     },
     "done": true
   },
   "mcwstairs:recipes/acacia": {
     "criteria": {
-      "has_planks": "2024-11-08 08:26:40 -0500"
+      "has_planks": "2024-11-09 00:26:40 +1100"
     },
     "done": true
   },
   "apotheosis:affix/gem_cut": {
     "criteria": {
-      "cut": "2024-11-08 08:33:44 -0500"
+      "cut": "2024-11-09 00:33:44 +1100"
     },
     "done": true
   },
   "tetra:spelunking/find_scroll_efficiency": {
     "criteria": {
-      "hammer_efficiency": "2024-11-08 09:15:55 -0500"
+      "hammer_efficiency": "2024-11-09 01:15:55 +1100"
     },
     "done": false
   },
   "tetra:spelunking/find_scroll": {
     "criteria": {
-      "find": "2024-11-08 09:15:55 -0500"
+      "find": "2024-11-09 01:15:55 +1100"
     },
     "done": true
   },
   "tetra:scrolls/root": {
     "criteria": {
-      "find": "2024-11-08 09:15:55 -0500"
+      "find": "2024-11-09 01:15:55 +1100"
     },
     "done": true
   },
   "apotheosis:spawner/capturing": {
     "criteria": {
-      "egg": "2024-11-08 09:47:35 -0500"
+      "egg": "2024-11-09 01:47:35 +1100"
     },
     "done": true
   },
   "create_enchantment_industry:spirit_taking": {
     "criteria": {
-      "builtin": "2024-11-09 01:41:21 -0500"
+      "builtin": "2024-11-09 17:41:21 +1100"
     },
     "done": true
   },
   "create_enchantment_industry:a_shower_experience": {
     "criteria": {
-      "builtin": "2024-11-09 01:41:45 -0500"
+      "builtin": "2024-11-09 17:41:45 +1100"
     },
     "done": true
   },
   "pneumaticcraft:drill_bit_netherite": {
     "criteria": {
-      "0": "2024-11-09 05:27:43 -0500"
+      "0": "2024-11-09 21:27:43 +1100"
     },
     "done": true
   },
   "pneumaticcraft:jackhammer": {
     "criteria": {
-      "0": "2024-11-09 05:28:44 -0500"
+      "0": "2024-11-09 21:28:44 +1100"
     },
     "done": true
   },
   "tetra:spelunking/find_scroll_sturdy": {
     "criteria": {
-      "find": "2024-11-09 06:29:00 -0500"
+      "find": "2024-11-09 22:29:00 +1100"
     },
     "done": true
   },
   "tetra:recipes/planks": {
     "criteria": {
-      "got_wood": "2024-11-09 07:42:35 -0500"
+      "got_wood": "2024-11-09 23:42:35 +1100"
     },
     "done": true
   },
   "pneumaticcraft:minigun": {
     "criteria": {
-      "0": "2024-11-09 07:42:47 -0500"
+      "0": "2024-11-09 23:42:47 +1100"
     },
     "done": true
   },
   "create:shifting_gears": {
     "criteria": {
-      "0": "2024-11-10 05:37:25 -0500"
+      "0": "2024-11-10 21:37:25 +1100"
     },
     "done": true
   },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "in_stronghold_betterstrongholds": "2024-11-10 05:46:06 -0500"
+      "in_stronghold_betterstrongholds": "2024-11-10 21:46:06 +1100"
     },
     "done": true
   },
   "tetra:scrolls/find_scroll_compound_string": {
     "criteria": {
-      "find": "2024-11-10 05:49:40 -0500"
+      "find": "2024-11-10 21:49:40 +1100"
     },
     "done": true
   },
   "pneumaticcraft:programming_puzzle": {
     "criteria": {
-      "0": "2024-11-10 06:09:36 -0500"
+      "0": "2024-11-10 22:09:36 +1100"
     },
     "done": true
   },
   "minecraft:end/root": {
     "criteria": {
-      "entered_end": "2024-11-10 06:20:35 -0500"
+      "entered_end": "2024-11-10 22:20:35 +1100"
     },
     "done": true
   },
   "ends_delight:root": {
     "criteria": {
-      "the_end": "2024-11-10 06:20:35 -0500"
+      "the_end": "2024-11-10 22:20:35 +1100"
     },
     "done": true
   },
   "minecraft:story/enter_the_end": {
     "criteria": {
-      "entered_end": "2024-11-10 06:20:35 -0500"
+      "entered_end": "2024-11-10 22:20:35 +1100"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2024-11-12 01:43:43 +1100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/warped_planks": {
+    "criteria": {
+      "has_planks": "2024-11-12 02:38:52 +1100"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-11-12 01:42:21 +1100"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-11-12 01:42:25 +1100"
     },
     "done": true
   },
