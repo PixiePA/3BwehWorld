@@ -546,6 +546,7 @@
       "minecraft:flower_forest": "2024-10-25 05:13:42 +1100",
       "minecraft:frozen_peaks": "2024-10-26 10:12:42 +1100",
       "minecraft:old_growth_birch_forest": "2024-10-25 09:49:40 +1100",
+      "minecraft:deep_dark": "2024-11-14 01:22:25 +1100",
       "minecraft:meadow": "2024-10-26 01:30:45 +1100",
       "minecraft:savanna": "2024-10-25 09:59:14 +1100",
       "minecraft:plains": "2024-10-24 02:37:06 +1100"
@@ -2225,7 +2226,8 @@
   },
   "repurposed_structures:temples": {
     "criteria": {
-      "in_temple_nether_wasteland": "2024-11-08 20:24:47 +1100"
+      "in_temple_nether_wasteland": "2024-11-08 20:24:47 +1100",
+      "in_temple_taiga": "2024-11-14 00:34:05 +1100"
     },
     "done": false
   },
@@ -2705,75 +2707,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_candy_cavity": {
+  "cataclysm:kill_ender_guardian": {
     "criteria": {
-      "discover": "2024-11-13 02:22:09 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/radiant_essence": {
-    "criteria": {
-      "mussel": "2024-11-13 02:44:05 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_purple_soda": {
-    "criteria": {
-      "in_purple_soda": "2024-11-13 02:26:51 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gum_worm": {
-    "criteria": {
-      "killed": "2024-11-13 02:32:33 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_caniac": {
-    "criteria": {
-      "killed": "2024-11-13 02:27:26 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/frostmint_spear": {
-    "criteria": {
-      "deep_sea_sushi_roll": "2024-11-13 02:45:43 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/seeking_arrow": {
-    "criteria": {
-      "seeking_arrow": "2024-11-13 03:55:39 +1100"
-    },
-    "done": true
-  },
-  "tetra:spelunking/find_cell": {
-    "criteria": {
-      "get_cell": "2024-11-13 02:51:18 +1100"
-    },
-    "done": true
-  },
-  "tetra:spelunking/containers": {
-    "criteria": {
-      "crate2": "2024-11-13 02:50:42 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2024-11-13 02:18:32 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/walk_on_rock_candy": {
-    "criteria": {
-      "cave_book": "2024-11-13 02:26:19 +1100"
-    },
-    "done": true
-  },
-  "tetra:spelunking/find_planar": {
-    "criteria": {
-      "find_planar": "2024-11-13 02:50:44 +1100"
+      "enderguardian": "2024-11-13 00:54:03 +1100"
     },
     "done": true
   },
@@ -2783,93 +2719,15 @@
     },
     "done": true
   },
-  "yungscavebiomes:frosted_caves": {
-    "criteria": {
-      "frosted_caves": "2024-11-13 02:21:40 +1100"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2024-11-13 03:26:22 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gumbeeper": {
-    "criteria": {
-      "killed": "2024-11-13 02:26:33 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/neodymium_ingot": {
-    "criteria": {
-      "azure": "2024-11-13 03:55:22 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/licowitch_tower": {
-    "criteria": {
-      "licowitch_tower": "2024-11-13 02:30:11 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_magnetic_caves": {
-    "criteria": {
-      "discover": "2024-11-13 03:54:43 +1100"
-    },
-    "done": true
-  },
-  "tetra:recipes/forged_mesh": {
-    "criteria": {
-      "got_mesh": "2024-11-13 02:53:09 +1100"
-    },
-    "done": true
-  },
-  "tetra:spelunking/ancient_ruins": {
-    "criteria": {
-      "extractor_ruin": "2024-11-13 02:48:34 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sack_of_sating": {
-    "criteria": {
-      "mussel": "2024-11-13 02:52:35 +1100"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2024-11-13 02:12:09 +1100"
     },
     "done": true
   },
-  "alexscaves:alexscaves/caramel_apple": {
+  "alexscaves:alexscaves/cave_map": {
     "criteria": {
-      "mussel": "2024-11-13 02:47:02 +1100"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/caramel": {
-    "criteria": {
-      "mussel": "2024-11-13 02:24:58 +1100"
-    },
-    "done": true
-  },
-  "cataclysm:kill_ender_guardian": {
-    "criteria": {
-      "enderguardian": "2024-11-13 00:54:03 +1100"
-    },
-    "done": true
-  },
-  "pneumaticcraft:entity_hack": {
-    "criteria": {
-      "0": "2024-11-13 03:11:09 +1100"
-    },
-    "done": true
-  },
-  "tetra:spelunking/chthonic_extractor": {
-    "criteria": {
-      "earthpiercer": "2024-11-13 02:52:11 +1100"
+      "cave_map": "2024-11-13 02:18:32 +1100"
     },
     "done": true
   },
@@ -2879,9 +2737,135 @@
     },
     "done": false
   },
+  "yungscavebiomes:frosted_caves": {
+    "criteria": {
+      "frosted_caves": "2024-11-13 02:21:40 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2024-11-13 02:22:09 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2024-11-13 02:24:58 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2024-11-13 02:26:19 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2024-11-13 02:26:33 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2024-11-13 02:26:51 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2024-11-13 02:27:26 +1100"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
       "gingerbread_town": "2024-11-13 02:28:17 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2024-11-13 02:30:11 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gum_worm": {
+    "criteria": {
+      "killed": "2024-11-13 02:32:33 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2024-11-13 02:42:29 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2024-11-13 02:44:05 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2024-11-13 02:45:43 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2024-11-13 02:47:02 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "extractor_ruin": "2024-11-13 02:48:34 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/containers": {
+    "criteria": {
+      "crate2": "2024-11-13 02:50:42 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_planar": {
+    "criteria": {
+      "find_planar": "2024-11-13 02:50:44 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_cell": {
+    "criteria": {
+      "get_cell": "2024-11-13 02:51:18 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/chthonic_extractor": {
+    "criteria": {
+      "earthpiercer": "2024-11-13 02:52:11 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sack_of_sating": {
+    "criteria": {
+      "mussel": "2024-11-13 02:52:35 +1100"
+    },
+    "done": true
+  },
+  "tetra:recipes/forged_mesh": {
+    "criteria": {
+      "got_mesh": "2024-11-13 02:53:09 +1100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:entity_hack": {
+    "criteria": {
+      "0": "2024-11-13 03:11:09 +1100"
     },
     "done": true
   },
@@ -2891,15 +2875,94 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-11-13 03:26:22 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2024-11-13 03:54:43 +1100"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/neodymium": {
     "criteria": {
-      "scarlet": "2024-11-13 03:54:52 +1100"
+      "scarlet": "2024-11-13 03:54:52 +1100",
+      "azure": "2024-11-14 00:45:11 +1100"
     },
-    "done": false
+    "done": true
   },
-  "alexscaves:alexscaves/candy_cane_hook": {
+  "alexscaves:alexscaves/neodymium_ingot": {
     "criteria": {
-      "candy_cane_hook": "2024-11-13 02:42:29 +1100"
+      "azure": "2024-11-13 03:55:22 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/seeking_arrow": {
+    "criteria": {
+      "seeking_arrow": "2024-11-13 03:55:39 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-11-14 01:22:25 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2024-11-14 01:15:19 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2024-11-14 01:16:32 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_boundroid": {
+    "criteria": {
+      "killed": "2024-11-14 00:44:27 +1100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-11-14 00:41:56 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2024-11-14 01:19:23 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2024-11-14 01:20:54 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2024-11-14 01:17:59 +1100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2024-11-14 01:15:25 +1100"
+    },
+    "done": true
+  },
+  "garnished:bok_choyo": {
+    "criteria": {
+      "obtain_bok_choy": "2024-11-14 00:36:00 +1100"
     },
     "done": true
   },
