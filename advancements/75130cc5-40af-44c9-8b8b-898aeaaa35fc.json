@@ -2559,9 +2559,39 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/spruce": {
+  "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
-      "has_planks": "2024-11-15 02:49:32 +1100"
+      "the_wind_darkening_0": "2024-11-15 02:16:18 +1100"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-11-15 02:36:50 +1100"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/crimson": {
+    "criteria": {
+      "has_planks": "2024-11-15 02:36:50 +1100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/crimson": {
+    "criteria": {
+      "has_planks": "2024-11-15 02:36:50 +1100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/prismarine": {
+    "criteria": {
+      "has_planks": "2024-11-15 02:37:57 +1100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-11-15 02:38:02 +1100"
     },
     "done": true
   },
@@ -2577,15 +2607,15 @@
     },
     "done": true
   },
-  "mcwstairs:recipes/spruce": {
+  "mcwroofs:recipes/spruce": {
     "criteria": {
       "has_planks": "2024-11-15 02:49:32 +1100"
     },
     "done": true
   },
-  "mcwroofs:recipes/prismarine": {
+  "mcwstairs:recipes/spruce": {
     "criteria": {
-      "has_planks": "2024-11-15 02:37:57 +1100"
+      "has_planks": "2024-11-15 02:49:32 +1100"
     },
     "done": true
   },
@@ -2595,33 +2625,27 @@
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
-      "find_artifact": "2024-11-15 02:36:50 +1100"
+      "ex": "2024-11-16 17:02:17 +1100"
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
+  "tetra:upgrades/tool_upgrade": {
     "criteria": {
-      "ancient_debris": "2024-11-15 02:38:02 +1100"
+      "hoe": "2024-11-16 17:27:00 +1100"
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
+  "farmersdelight:main/place_feast": {
     "criteria": {
-      "the_wind_darkening_0": "2024-11-15 02:16:18 +1100"
+      "roast_chicken": "2024-11-16 17:33:42 +1100"
     },
     "done": true
   },
-  "mcwstairs:recipes/crimson": {
+  "tetra:art_of_forging/root": {
     "criteria": {
-      "has_planks": "2024-11-15 02:36:50 +1100"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/crimson": {
-    "criteria": {
-      "has_planks": "2024-11-15 02:36:50 +1100"
+      "double": "2024-11-16 17:27:00 +1100"
     },
     "done": true
   },
