@@ -505,12 +505,15 @@
       "minecraft:deep_ocean": "2024-11-05 22:53:36 +1100",
       "minecraft:sunflower_plains": "2024-11-05 15:55:43 +1100",
       "minecraft:beach": "2024-10-28 13:39:54 +1100",
+      "minecraft:dark_forest": "2024-11-17 19:52:04 +1100",
       "minecraft:river": "2024-10-28 12:48:04 +1100",
       "minecraft:stony_shore": "2024-11-05 22:39:20 +1100",
+      "minecraft:grove": "2024-11-17 19:52:07 +1100",
       "minecraft:forest": "2024-10-28 12:46:23 +1100",
       "minecraft:lush_caves": "2024-11-10 21:46:04 +1100",
       "minecraft:ocean": "2024-11-05 22:45:24 +1100",
       "minecraft:flower_forest": "2024-11-05 22:46:31 +1100",
+      "minecraft:deep_dark": "2024-11-17 19:52:17 +1100",
       "minecraft:plains": "2024-11-02 15:36:23 +1100"
     },
     "done": false
@@ -606,6 +609,7 @@
       "minecraft:skeleton": "2024-11-02 15:31:44 +1100",
       "minecraft:spider": "2024-11-05 17:58:56 +1100",
       "minecraft:creeper": "2024-11-09 01:02:02 +1100",
+      "minecraft:phantom": "2024-11-17 19:03:40 +1100",
       "minecraft:wither_skeleton": "2024-11-06 15:32:08 +1100",
       "minecraft:ender_dragon": "2024-11-10 22:37:04 +1100",
       "minecraft:endermite": "2024-11-10 22:21:58 +1100",
@@ -1222,6 +1226,145 @@
   "create:glass_pipe": {
     "criteria": {
       "0": "2024-11-14 22:24:47 +1100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-11-17 19:22:29 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2024-11-17 19:53:26 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-11-17 19:52:17 +1100"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2024-11-17 19:20:57 +1100"
+    },
+    "done": true
+  },
+  "estrogen:estrogen_pill": {
+    "criteria": {
+      "estrogen_pill": "2024-11-17 18:42:31 +1100"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2024-11-17 19:24:48 +1100"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:black_as_ink": {
+    "criteria": {
+      "have_bucket_of_ink": "2024-11-17 19:36:23 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_sculk_transmitter": {
+    "criteria": {
+      "sculk_transmitter": "2024-11-17 20:26:53 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_temple": {
+    "criteria": {
+      "ancient_temple": "2024-11-17 20:21:49 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-11-17 19:57:56 +1100"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2024-11-17 18:42:31 +1100"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-11-17 20:23:37 +1100"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-11-17 19:34:14 +1100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fried_rice": "2024-11-17 19:53:19 +1100"
+    },
+    "done": false
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2024-11-17 20:04:59 +1100",
+      "deeplands": "2024-11-17 19:53:26 +1100",
+      "blooming_caverns": "2024-11-17 20:07:07 +1100",
+      "echoing_forest": "2024-11-17 20:07:06 +1100"
+    },
+    "done": true
+  },
+  "create:drain": {
+    "criteria": {
+      "0": "2024-11-17 19:41:16 +1100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-11-17 19:09:06 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-11-17 19:53:03 +1100"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2024-11-17 19:22:11 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "shattered": "2024-11-17 19:54:31 +1100",
+      "phantom": "2024-11-17 19:03:40 +1100",
+      "shriek_worm": "2024-11-17 20:07:47 +1100",
+      "sculk_centipede": "2024-11-17 19:54:04 +1100",
+      "sculk_snapper": "2024-11-17 20:25:09 +1100"
+    },
+    "done": false
+  },
+  "estrogen:estrogen_dealer": {
+    "criteria": {
+      "estrogen_dealer": "2024-11-17 18:42:31 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-11-17 19:52:28 +1100"
     },
     "done": true
   },

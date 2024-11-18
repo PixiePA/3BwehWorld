@@ -503,6 +503,8 @@
       "minecraft:stony_shore": "2024-11-13 04:01:12 +1100",
       "minecraft:dripstone_caves": "2024-11-14 00:43:14 +1100",
       "minecraft:grove": "2024-11-14 01:11:37 +1100",
+      "minecraft:swamp": "2024-11-17 16:27:45 +1100",
+      "minecraft:jagged_peaks": "2024-11-17 19:47:22 +1100",
       "minecraft:cold_ocean": "2024-11-14 00:21:14 +1100",
       "minecraft:forest": "2024-10-24 01:26:21 +1100",
       "minecraft:lush_caves": "2024-11-10 21:46:06 +1100",
@@ -511,6 +513,7 @@
       "minecraft:jungle": "2024-11-14 00:25:58 +1100",
       "minecraft:flower_forest": "2024-11-14 00:26:46 +1100",
       "minecraft:old_growth_birch_forest": "2024-11-14 00:24:45 +1100",
+      "minecraft:deep_dark": "2024-11-17 19:25:11 +1100",
       "minecraft:meadow": "2024-11-14 00:25:09 +1100",
       "minecraft:plains": "2024-10-24 02:34:23 +1100"
     },
@@ -2248,7 +2251,12 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2024-11-13 01:24:19 +1100"
+      "shattered": "2024-11-17 19:56:52 +1100",
+      "phantom": "2024-11-13 01:24:19 +1100",
+      "sculk_centipede": "2024-11-17 19:56:55 +1100",
+      "sculk_leech": "2024-11-17 20:03:54 +1100",
+      "warden": "2024-11-17 19:45:29 +1100",
+      "sculk_snapper": "2024-11-17 20:17:53 +1100"
     },
     "done": false
   },
@@ -2637,15 +2645,150 @@
     },
     "done": true
   },
+  "tetra:art_of_forging/root": {
+    "criteria": {
+      "double": "2024-11-16 17:27:00 +1100"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_feast": {
     "criteria": {
       "roast_chicken": "2024-11-16 17:33:42 +1100"
     },
     "done": true
   },
-  "tetra:art_of_forging/root": {
+  "biomancy:biomancy/predator_killer": {
     "criteria": {
-      "double": "2024-11-16 17:27:00 +1100"
+      "has_mob_fang": "2024-11-17 13:00:47 +1100"
+    },
+    "done": false
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-11-17 13:57:06 +1100"
+    },
+    "done": true
+  },
+  "ars_nouveau:alteration_table": {
+    "criteria": {
+      "has_alteration_table": "2024-11-17 15:25:37 +1100"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-17 16:28:00 +1100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "noodle_soup": "2024-11-17 16:36:18 +1100"
+    },
+    "done": false
+  },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2024-11-17 16:57:26 +1100"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2024-11-17 17:14:04 +1100"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-11-17 17:38:34 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2024-11-17 19:53:18 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-11-17 19:25:11 +1100"
+    },
+    "done": true
+  },
+  "estrogen:estrogen_pill": {
+    "criteria": {
+      "estrogen_pill": "2024-11-17 18:42:33 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_sculk_transmitter": {
+    "criteria": {
+      "sculk_transmitter": "2024-11-17 20:26:47 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_temple": {
+    "criteria": {
+      "ancient_temple": "2024-11-17 20:21:52 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-11-17 19:57:41 +1100"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2024-11-17 18:14:21 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-11-17 19:45:29 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2024-11-17 20:04:28 +1100",
+      "deeplands": "2024-11-17 19:53:19 +1100",
+      "blooming_caverns": "2024-11-17 20:06:48 +1100",
+      "echoing_forest": "2024-11-17 20:07:09 +1100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2024-11-17 19:53:45 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-11-17 19:25:13 +1100"
+    },
+    "done": true
+  },
+  "art_of_forging:materials/find_demonic_item": {
+    "criteria": {
+      "sword": "2024-11-17 19:26:42 +1100"
+    },
+    "done": true
+  },
+  "estrogen:estrogen_dealer": {
+    "criteria": {
+      "estrogen_dealer": "2024-11-17 18:42:33 +1100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-11-17 19:25:18 +1100"
     },
     "done": true
   },
