@@ -698,11 +698,13 @@
       "minecraft:witch": "2024-11-05 22:06:19 +1100",
       "minecraft:wither_skeleton": "2024-10-26 00:37:31 +1100",
       "minecraft:husk": "2024-11-12 21:54:02 +1100",
+      "minecraft:shulker": "2024-11-19 18:21:17 +1100",
       "minecraft:cave_spider": "2024-10-25 00:33:38 +1100",
       "minecraft:piglin": "2024-10-29 18:23:50 +1100",
       "minecraft:enderman": "2024-10-26 01:17:02 +1100",
       "minecraft:silverfish": "2024-10-26 00:50:53 +1100",
       "minecraft:stray": "2024-11-09 01:10:01 +1100",
+      "minecraft:endermite": "2024-11-19 18:19:13 +1100",
       "minecraft:vex": "2024-11-06 02:13:04 +1100",
       "minecraft:zombie": "2024-10-24 02:08:58 +1100",
       "quark:foxhound": "2024-11-08 23:37:57 +1100",
@@ -979,6 +981,7 @@
       "tomato": "2024-11-04 19:37:37 +1100",
       "rice": "2024-10-25 01:16:19 +1100",
       "kelp": "2024-11-08 20:53:26 +1100",
+      "chorus_flower": "2024-11-19 17:28:17 +1100",
       "sugar_cane": "2024-11-06 02:06:03 +1100",
       "potato": "2024-10-28 16:23:11 +1100",
       "wheat": "2024-11-14 20:54:59 +1100",
@@ -2826,6 +2829,180 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2024-11-18 20:34:20 +1100"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2024-11-19 15:31:30 +1100"
+    },
+    "done": true
+  },
+  "art_of_forging:materials/root": {
+    "criteria": {
+      "alloy": "2024-11-19 17:20:32 +1100"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2024-11-19 19:46:55 +1100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2024-11-19 19:46:54 +1100"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_upgrade": {
+    "criteria": {
+      "module": "2024-11-19 17:18:23 +1100"
+    },
+    "done": true
+  },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2024-11-19 16:14:53 +1100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2024-11-19 19:48:48 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/loot_ruins": {
+    "criteria": {
+      "platform_slab": "2024-11-19 16:30:03 +1100"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2024-11-19 18:07:30 +1100"
+    },
+    "done": true
+  },
+  "tetra:recipes/forged_mesh": {
+    "criteria": {
+      "got_mesh": "2024-11-19 16:19:46 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "extractor_ruin": "2024-11-19 16:16:53 +1100"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_integrity": {
+    "criteria": {
+      "module": "2024-11-19 17:29:16 +1100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-11-19 19:48:48 +1100"
+    },
+    "done": true
+  },
+  "art_of_forging:materials/endsteel_ingot": {
+    "criteria": {
+      "endsteel_ingot": "2024-11-19 17:46:06 +1100"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-11-19 19:31:30 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_craft": {
+    "criteria": {
+      "craft": "2024-11-19 17:18:23 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_unjam": {
+    "criteria": {
+      "crit1": "2024-11-19 19:13:32 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_latch": {
+    "criteria": {
+      "find_latch": "2024-11-19 16:28:47 +1100"
+    },
+    "done": false
+  },
+  "art_of_forging:materials/forged_ingot": {
+    "criteria": {
+      "forged_ingot": "2024-11-19 17:22:10 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/refill_cell": {
+    "criteria": {
+      "refill_cell": "2024-11-19 16:31:20 +1100"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-11-19 17:41:03 +1100"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2024-11-19 19:51:25 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/chthonic_extractor": {
+    "criteria": {
+      "earthpiercer": "2024-11-19 16:27:19 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/containers": {
+    "criteria": {
+      "crate2": "2024-11-19 16:19:31 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_fix": {
+    "criteria": {
+      "fuel": "2024-11-19 17:18:12 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_planar": {
+    "criteria": {
+      "find_planar": "2024-11-19 16:19:05 +1100"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_hone": {
+    "criteria": {
+      "hilt_hone/damage": "2024-11-19 19:10:06 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_nano_insectoid": {
+    "criteria": {
+      "insectoid": "2024-11-19 16:28:22 +1100"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-11-19 18:16:46 +1100"
     },
     "done": true
   },

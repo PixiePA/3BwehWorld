@@ -3188,5 +3188,155 @@
     },
     "done": true
   },
+  "tetra:scrolls/find_scroll_mace": {
+    "criteria": {
+      "find": "2024-11-19 19:38:03 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/loot_ruins": {
+    "criteria": {
+      "platform_slab": "2024-11-19 16:25:01 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/craft_shockwave_chamber": {
+    "criteria": {
+      "shockwave_chamber": "2024-11-19 17:28:55 +1100"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2024-11-19 18:14:50 +1100"
+    },
+    "done": true
+  },
+  "tetra:upgrades/toolbelt_upgraded": {
+    "criteria": {
+      "inlaid": "2024-11-19 18:57:35 +1100"
+    },
+    "done": true
+  },
+  "art_of_forging:materials/vobrivium_ingot": {
+    "criteria": {
+      "vobrivium_ingot": "2024-11-19 17:32:00 +1100"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/endshelf": {
+    "criteria": {
+      "endshelf": "2024-11-19 18:05:18 +1100"
+    },
+    "done": true
+  },
+  "art_of_forging:materials/vobrite_crystal": {
+    "criteria": {
+      "vobrite_crystal": "2024-11-19 17:23:59 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_power": {
+    "criteria": {
+      "module": "2024-11-19 17:34:15 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_craft": {
+    "criteria": {
+      "craft": "2024-11-19 17:34:26 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_unjam": {
+    "criteria": {
+      "crit1": "2024-11-19 17:40:11 +1100"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2024-11-19 17:56:30 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_latch": {
+    "criteria": {
+      "find_latch": "2024-11-19 16:20:38 +1100"
+    },
+    "done": false
+  },
+  "tetra:spelunking/hammer_jam": {
+    "criteria": {
+      "fuel": "2024-11-19 17:39:46 +1100"
+    },
+    "done": true
+  },
+  "art_of_forging:materials/forged_ingot": {
+    "criteria": {
+      "forged_ingot": "2024-11-19 17:31:33 +1100"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/sculkshelf": {
+    "criteria": {
+      "echoing": "2024-11-19 17:45:39 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/refill_cell": {
+    "criteria": {
+      "refill_cell": "2024-11-19 16:17:50 +1100"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-11-19 17:50:08 +1100"
+    },
+    "done": true
+  },
+  "tetra:scrolls/find_scroll_compound_string": {
+    "criteria": {
+      "find": "2024-11-19 17:08:01 +1100"
+    },
+    "done": true
+  },
+  "tetra:scrolls/find_scroll_halberd": {
+    "criteria": {
+      "find": "2024-11-19 19:44:26 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/chthonic_crossbow": {
+    "criteria": {
+      "unused": "2024-11-19 18:37:21 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_fix": {
+    "criteria": {
+      "fuel": "2024-11-19 17:34:15 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_nano_insectoid": {
+    "criteria": {
+      "insectoid": "2024-11-19 16:23:53 +1100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_remove": {
+    "criteria": {
+      "module": "2024-11-19 17:34:09 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-11-19 18:33:46 +1100"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
