@@ -977,6 +977,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cocoa": "2024-11-23 17:20:16 +1100",
       "chorus_flower": "2024-11-14 19:31:51 +1100",
       "sugar_cane": "2024-10-28 16:43:07 +1100",
       "nether_wart": "2024-11-14 18:00:19 +1100",
@@ -1440,6 +1441,48 @@
   "deeperdarker:main/find_ancient_city": {
     "criteria": {
       "ancient_city": "2024-11-17 19:31:46 +1100"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/bio_injector": {
+    "criteria": {
+      "has_injector": "2024-11-23 15:35:24 +1100"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/bio_lab": {
+    "criteria": {
+      "has_bio_lab": "2024-11-23 15:35:33 +1100"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2024-11-23 16:13:05 +1100"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2024-11-23 16:13:05 +1100"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2024-11-23 16:15:50 +1100"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/cooked_meat_sacrifice": {
+    "criteria": {
+      "has_sacrificed_cooked_meat": "2024-11-23 16:41:45 +1100"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/genetic_compounds": {
+    "criteria": {
+      "has_genetic_compound": "2024-11-23 17:44:00 +1100"
     },
     "done": true
   },
